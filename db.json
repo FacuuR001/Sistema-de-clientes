@@ -1,0 +1,44 @@
+{
+  "perfil": [
+    {
+      "nombre": "Oscar",
+      "email": "Oscar@alura.com",
+      "id": "031513ea-17e8-442a-81ed-dc5437f1f11a"
+    },
+    {
+      "nombre": "Marita",
+      "email": "Marita@alura.com",
+      "id": "93dc286f-be4b-4afd-80a9-bd5375c564a7"
+    },
+    {
+      "nombre": "Leticia",
+      "email": "Leticia@alura.com",
+      "id": "6797f00c-61cd-469d-9f3c-5db0d94b5897"
+    },
+    {
+      "nombre": "Jorge",
+      "email": "Jorge@alura.com",
+      "id": "5f83990a-68bd-4234-a9d1-da910994e30f"
+    },
+    {
+      "nombre": "Emilia",
+      "email": "Emilia@alura.com",
+      "id": "fc7f10a1-1ada-4474-a294-c6da0e1d178f"
+    },
+    {
+      "nombre": "Facundo",
+      "email": "facundorullo@hotmail.com",
+      "id": "d5722ad9-e794-462f-b3d8-f40c5d21b58c"
+    },
+    {
+      "nombre": "Chicho",
+      "email": "chicho@alura.com",
+      "id": "f66f128a-cb87-4e05-b90d-4e4aa13ee760"
+    },
+    {
+      "nombre": "ds",
+      "email": "ds",
+      "id": "26bd4eef-9804-4fc3-91a1-231891c6a7ee"
+    }
+  ]
+}
